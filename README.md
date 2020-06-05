@@ -6,9 +6,9 @@ WebstaurantStore Code Screen Task
 
 ### Prerequisites
 
-Runnable on: Windows 10
-Browser: Chrome
-Tools: Java, Selenium Webdriver, TestNG, Allure Report, Maven
+- Runnable on: Windows 10
+- Browser: Chrome
+- Tools: Java, Selenium Webdriver, TestNG, Allure Report, Maven
 
 
 ### Testcase steps:
