@@ -1,6 +1,6 @@
 # Project Title
 
-WebstaurantStore Code Screen Task
+InvoiceCloud Code Screen Task
 
 ## Getting Started
 
@@ -13,16 +13,7 @@ WebstaurantStore Code Screen Task
 
 ### Testcase steps:
 
-1.	Go to https://www.webstaurantstore.com/
-2.	Search for 'stainless work table'.
-3.	Check the search result ensuring every product item has the word 'Table' its title.
-4.	Add the last of found items to Cart.
-5.	Empty Cart.
+1. navigates to The Internet (the-internet.herokuapp.com)
+2. adds n number of elements
+3. asserts that n number of elements exist on the page
 
-### Note: Not all the product item has word "Table" in title (Example below)
-
-- Steelton 30" x 36" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs does not have the word 'Table' its title
-- Steelton 30" x 24" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs does not have the word 'Table' its title 
-- Steelton 30" x 48" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs does not have the word 'Table' its title 
-- Steelton 30" x 60" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs does not have the word 'Table' its title 
-- Steelton 30" x 72" 18-Gauge Stainless Steel Equipment Stand with Undershelf and Galvanized Legs does not have the word 'Table' its title 
